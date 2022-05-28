@@ -38,6 +38,8 @@ _BOT_ - main file with bot **engine**
 _good.webp_ - welcoming **sticker** for telegram 
 _config_ - gitignored file with bot's **token**
 _dialogues.txt_ - additional file with big database of dualogues
+## **!!!WARNING!!!** You need to download dialogues.txt from the link in
+dialogues(download link).txt and set put file into /dialogues/
 
 [//]: #
    [TBV2]: <https://github.com/milanzerg/TalkingBotV2>
