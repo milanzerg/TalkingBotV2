@@ -31,6 +31,13 @@ _The Creator:_
 And of course **TalkingBot** itself is open source with a [public repository][TBV2]
  on **GitHub**.
 
+## Additional Files
+
+_BOT_DATA_ - small **data file** for machine learning
+_BOT_ - main file with bot **engine**
+_good.webp_ - welcoming **sticker** for telegram 
+_config_ - gitignored file with bot's **token**
+_dialogues.txt_ - additional file with big database of dualogues
 
 [//]: #
    [TBV2]: <https://github.com/milanzerg/TalkingBotV2>
