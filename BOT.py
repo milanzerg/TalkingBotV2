@@ -9,8 +9,8 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.linear_model import SGDClassifier
 from sklearn.model_selection import train_test_split
 
-from telega.project import config
-from telega.project import BOT_DATA
+from . import config
+from . import BOT_DATA
 bot = telebot.TeleBot(config.TOKEN)
 admin_description = "Вас приветствует РАБ - Разумный Автономный Бот"
 
